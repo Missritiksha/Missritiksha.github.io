@@ -190,37 +190,6 @@ export default class Projects extends Component {
                                 <div class="portfolio-details-container">
 
                                     <div class="portfolio-details-carousel">
-                                    <a className="venobox maxWidth mb-4" data-vbtype="inline" href="#faceDetection">
-                                        <div className="position-relative maxContent-width"><img src="/assets/img/faceDetection.gif" alt="faceDetection preview" class="img-fluid" />
-                                    <div className="img-sub"><p>Click to Expand</p></div></div></a>
-                                    </div>
-
-                                    <div class="portfolio-info">
-                                        <h3>Face Detection Attendance System</h3>
-                                        <ul>
-                                            <li><strong>Category</strong>: Software Development</li>
-                                            <li><strong>Tech Stack</strong>: Python, Open CV, KIVY</li>
-                                        </ul>
-                                    </div>
-
-                                </div>
-
-                                {/* <div class="portfolio-description">
-                                    <h2>Email Scheduler</h2>
-                                    <p>
-                                        It was built during a 2 day Hackathon. Schedule daily/ weekly/ monthly/ yearly recurring mails. Implemented Google O-auth for login.
-                                    </p>
-                                </div> */}
-
-                            </div>
-                        </section>
-                        <hr />
-                        <section class="portfolio-details">
-                            <div class="container">
-
-                                <div class="portfolio-details-container">
-
-                                    <div class="portfolio-details-carousel">
                                     <a className="venobox maxWidth mb-4" data-vbtype="inline" href="#webScraper">
                                         <div className="position-relative maxContent-width"><img src="/assets/img/webScraper.jpg" alt="webScraper preview" class="img-fluid" />
                                     <div className="img-sub"><p>Click to Expand</p></div></div></a>

@@ -26,15 +26,15 @@ class PageWrapper extends Component {
                     {/* <div className="dp">
                         <img src="/assets/img/dp.jpg" alt="Display Picture" />
                     </div> */}
-                    <h3 className="mt-3">Ritiksha Jeriya</h3>
+                    <h3 className="mt-3">Ritiksha</h3>
                     <span class="designation mb-3">
                         <a href="#">C.S.E. student</a> at Engineering College Jhalawar
                     </span>
                     <div className="d-flex flex-row flex-wrap justify-content-around">
-                    <a href="https://twitter.com/aryanankit_raj" className="p-3" target="_blank"><i class="ri-twitter-fill"></i></a>
-                        <a href="https://www.instagram.com/aryanankit.raj/" className="p-3" target="_blank"><i class="ri-instagram-line"></i></a>
-                        <a href="https://github.com/aryaraj132" className="p-3" target="_blank"><i class="ri-github-fill"></i></a>
-                        <a href="https://www.linkedin.com/in/aryaraj132" className="p-3" target="_blank"><i class="ri-linkedin-fill"></i></a>
+                    <a href="https://twitter.com/Ritiksh50313151" className="p-3" target="_blank"><i class="ri-twitter-fill"></i></a>
+                        <a href="https://instagram.com/ritikshaa_24_?igshid=MzRlODBiNWFlZA==" className="p-3" target="_blank"><i class="ri-instagram-line"></i></a>
+                        <a href="https://github.com/Missritiksha" className="p-3" target="_blank"><i class="ri-github-fill"></i></a>
+                        <a href="https://www.linkedin.com/in/ritiksha-411390213" className="p-3" target="_blank"><i class="ri-linkedin-fill"></i></a>
                     </div>
 
                     <ul className="navigation">

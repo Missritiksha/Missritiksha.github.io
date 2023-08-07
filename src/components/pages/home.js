@@ -237,7 +237,7 @@ export default class home extends Component {
                     </div>
                 <div className="container position-relative maxHeight">
                     <div className="meta-body">
-                        <h1 className="name">Ritiksha <br /> Jeriya </h1>
+                        <h1 className="name">Ritiksha</h1>
                         <span className="desc1 text-white">Learner,</span><span className="desc2 ml-2 text-white">Developer,</span><span className="desc3 ml-3 text-white">Freelancer</span>
                     </div>
                 </div>
@@ -277,7 +277,7 @@ export default class home extends Component {
                 <span className="meta-title">Contact</span>
                     <div className="meta-body">
                         <h1 className="name">Contact<br /> ME</h1>
-                        <span className="desc1 text-white"><a className="text-white" href="mailto:jeriyahritul@shemale.com">jeriyahritul@shemale.com</a></span>
+                        <span className="desc1 text-white"><a className="text-white" href="mailto:missritiksha@gmail.com">missritiksha@gmail.com</a></span>
                     </div>
                 </div>
                 <div className="placeholder-img d-flex align-items-center"><img src="/assets/img/contact.svg" alt="Contact Placeholder" /></div>

@@ -9,7 +9,7 @@ export default class Projects extends Component {
         this.interval = null
     }
     componentDidMount() {
-        document.title = "Projects | Ritiksha Jeriya";
+        document.title = "Projects | Ritiksha";
         anime({
             targets: '.fillpage',
             height: ["100vh", "0vh"],

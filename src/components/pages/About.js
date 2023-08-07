@@ -3,7 +3,7 @@ import anime from 'animejs';
 
 export default class About extends Component {
     componentDidMount(){
-        document.title = "About | Ritiksha Jeriya";
+        document.title = "About | Ritiksha";
         anime({
             targets: '.fillpage',
             height:["100vh","0vh"],
@@ -33,7 +33,7 @@ export default class About extends Component {
                     <div className="d-flex flex-column">
                     <h2 className="position-relative about-title">Who am I?</h2>
                     <div className="maxHeight halfWidth linehight-2 align-self-end">
-                        <h3>Ritiksha Jeriya</h3>
+                        <h3>Ritiksha</h3>
                         <p>A Computer Science and Engineering graduate from Rajasthan Technical University, Kota. <br />
                         I like to built apps in my free time. Joined Freelance community in my 2<sup>nd</sup> Year and worked with two UK based startup.<br />
                         </p>

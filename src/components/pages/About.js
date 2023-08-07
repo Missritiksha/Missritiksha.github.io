@@ -3,7 +3,7 @@ import anime from 'animejs';
 
 export default class About extends Component {
     componentDidMount(){
-        document.title = "About | Aryan Raj";
+        document.title = "About | Ritiksha Jeriya";
         anime({
             targets: '.fillpage',
             height:["100vh","0vh"],
